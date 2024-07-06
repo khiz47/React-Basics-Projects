@@ -13,9 +13,9 @@ Projects Include:
 
 How to Use:
 
-  1: Clone the repository: git clone https://github.com/khiz47/react-basics-projects.git
-  2: Navigate to a project directory: cd react-basics-projects/project-name
-  3: Install dependencies: npm install
-  4: Start the development server: npm start
+    Clone the repository: git clone https://github.com/khiz47/react-basics-projects.git
+    Navigate to a project directory: cd react-basics-projects/project-name
+    Install dependencies: npm install
+    Start the development server: npm start
 
 Explore the projects to enhance your React skills!
